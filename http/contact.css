@@ -16,19 +16,19 @@ ul {
 
  li a {
     display: block;
-    color: blue;
+    color: blue !important;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: #333;
+    background-color: #333 !important;
     font-size: 24px;
     text-shadow: 1px 1px #ff0000;
 }
 
 /* Change the link color to #111 (black) on hover */
  li a:hover {
-    background-color: #404040;
-    text-decoration: none;
+    background-color: #404040 !important;
+    text-decoration: none !important;
 }
  div {
 	 padding-top: 100px;
