@@ -31,5 +31,6 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHiyypKyplYxxMtXo3OIzatjZqrqXwY8U&callback=myMap"></script>
+
 </body>
 </html>
