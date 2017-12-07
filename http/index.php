@@ -12,6 +12,9 @@ CBC HTML (Hyper Text Markup Language)<br />
 <li><a href="https://github.com/Pearlhat23" target="_blank"> Git-Hub</a> &nbsp;</li>
 <li><a href="html/" target="_blank"> HTML</a> &nbsp;</li>
 <li><a href="logs/" target="_blank"> Logs</a> &nbsp;</li>
+<li><a href="Python/" target="_blank"> Python</a> &nbsp;</li>
+<li><a href="phpmyadminstuff/" target="_blank"> Database</a> &nbsp;</li>
+<li><a href="https://www.sololearn.com/" target="_blank"> SoloLearn</a> &nbsp;</li>
 </ul>
 </div>
 <?php
